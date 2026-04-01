@@ -132,18 +132,105 @@ In `Interview_Preparation_Roadmap.doc`:
 ```
 
 ***
+instead of by week), I can give you a **one‑page, copy‑paste‑ready “Maps & Roadmaps” sheet** you can drop into `00_Maps_and_Roadmaps` and Here’s a **crisp, consciousness‑first summary** of the folder structure and your step‑by‑step workflow in Google Drive, including targets (interview prep, training materials, and real‑project work), with AI as a helper, not a driver.
 
-### 6. Your “consciousness‑first” steps to follow
+***
 
-For each map/roadmap:
+### 📁 Folder structure in Google Drive
 
-1. **You decide the phases and timeline** (e.g., 1–2 weeks per phase).  
-2. **You write the outline** in a Drive Doc.  
-3. **You ask AI only for ideas/exercises**, then **edit and own** every line.  
-4. **You tick off milestones** in your career‑target doc as you complete modules.  
-5. **You reuse the same roadmap** for:
-   - Your own learning.
-   - Your training course outline.
-   - Your interview‑prep plan.
+```
+My Python + Angular Knowledge Base
+├── 00_Maps_and_Roadmaps
+│   ├── Course_Outline_Python_Angular.doc
+├── 01_Python_Core
+│   ├── 01A_Lesson_<Topic>.doc
+│   ├── 01B_Exercises_<Topic>.doc
+├── 02_Angular_17+
+│   ├── 02A_Lesson_<Topic>.doc
+│   ├── 02B_Exercises_<Topic>.doc
+├── 03_Projects_Checklists
+│   ├── 03A_Lab_Guide_Python_Angular_Todo.doc
+├── 04_Interview_Rehearsal
+│   ├── Interview_Rehearsal_Python_Angular.doc
+├── 05_Ask_AI (drafts only)
+│   ├── Raw_AI_Draft_<Topic>.doc
+└── 06_Slides_Scripts
+    ├── 06A_Script_Lesson_<Topic>.doc
+```
 
-If you tell me whether you want to **start with a 4‑week timeline** (e.g., “Phase 1, 7 days each”) or a **thematic breakdown** (by topic instead of by week), I can give you a **one‑page, copy‑paste‑ready “Maps & Roadmaps” sheet** you can drop into `00_Maps_and_Roadmaps` and just tick off.
+This structure serves **three targets**:
+- **Interview prep** (sections in `04_Interview_Rehearsal` and lesson “Q&A” parts).
+- **Training course materials** (Lesson and Exercise docs in `01` and `02`).
+- **Actual project work** (checklists in `03_Projects_Checklists` and your own code repos).
+
+***
+
+### 🧠 Your “consciousness‑first” workflow (with AI help)
+
+Follow this **loop** for each topic:
+
+1. **You decide the topic and goal.**  
+   - Example: “Python functions & decorators for intermediate devs.”
+   - Store this decision in the relevant folder (e.g., `01_Python_Core`).
+
+2. **You create the outline in a Doc.**  
+   - Open a new Doc in Drive and write:
+     - Learning objectives.
+     - 3–5 bullet points of what you want to cover.
+   - You are the **sole architect** of the structure.
+
+3. **You ask AI to help draft.**  
+   - Copy your outline into an AI chat and say:
+     - *“Expand this into lesson‑style content for my Google Doc. Keep it practical and intermediate.”*
+   - Save the AI output into a file in `05_Ask_AI` (e.g., `Raw_AI_Draft_Functions_Decorators.doc`).
+
+4. **You edit and stamp it as your own.**  
+   - Open the **real** lesson Doc in `01` or `02`.
+   - Copy only the useful parts from `05_Ask_AI`.
+   - Add:
+     - Your own code examples.
+     - Your own mental model.
+     - Your own interview‑style questions.
+   - Rename the file as `_FINAL` when you’re satisfied.
+
+5. **You design exercises and project‑use cases.**  
+   - In the same folder, create an Exercises Doc.
+   - Define:
+     - 3–5 small tasks.
+     - Expected outcomes.
+   - Use AI only if you need extra ideas:
+     - *“Generate 3 small Python decorator exercises at intermediate level.”*
+   - Then you **edit, refine, and own** the exercises.
+
+6. **You practice for interviews and teaching.**  
+   - Use `Interview_Rehearsal_Python_Angular.doc` to:
+     - Write 3‑line answers in your own words.
+     - Practice speaking them out loud.
+   - For teaching, open:
+     - Lesson Doc → Live‑code demo.
+     - Exercise Doc → Let learners code while you guide.
+
+7. **You connect to real projects.**  
+   - Use `03_Projects_Checklists` to:
+     - Define how you will use this topic in the next project.
+     - Create a checklist (folder structure, API, error handling, etc.).
+   - AI can help draft the checklist, but you **approve and finalize**.
+
+***
+
+### 🎯 Your 3 main targets (all in one system)
+
+- **Interview prep:**  
+  - `Interview_Rehearsal_Python_Angular.doc` + “Q&A” section in each Lesson Doc.
+  - You write and rehearse answers yourself; AI only inspires or refines.
+
+- **Training course materials:**  
+  - Lesson Docs (`01A`, `02A`) + Exercises Docs (`01B`, `02B`) + Scripts in `06_Slides_Scripts`.
+  - You design the flow; AI helps with wording, examples, and extra questions.
+
+- **Actual project work:**  
+  - Checklists in `03_Projects_Checklists` + your own code repos.
+  - You decide what to build; AI helps with code snippets and refactoring ideas.
+
+***
+just tick off.
