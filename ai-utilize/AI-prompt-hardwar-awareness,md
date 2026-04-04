@@ -1,0 +1,324 @@
+Create a deep learning printable document using the "Material-Anchored Learning Technique".
+
+Mode: {Advanced}
+
+Input:
+Skill Category: {Hardware Devices}
+Skill Name: {Hardware Awareness}
+Domain: {Software Industry Domain}
+Job Role: {Software Engineer}
+Core Skill: {Software architecture, Web architecture, API systems, Security awareness}
+
+Sub-skills (IMPORTANT):
+The given items represent interconnected system layers.
+Convert them into logically meaningful sub-skills by grouping and naming them based on real-world system flow.
+
+Raw Inputs:
+
+* Laptop, server, NIC, router
+* Laptop, app server, DB server
+* Server, NIC, switch
+* Server, firewall
+
+Instruction:
+
+* Transform these into clear sub-skills like:
+
+  * Client to Server Communication
+  * Application Server to Database Interaction
+  * Network Data Transmission (NIC, Switch)
+  * Security Layer (Firewall)
+* Each sub-skill must represent a functional part of the system
+
+For each sub-skill provide:
+
+* Sub-skill Name (logical, meaningful)
+* Material (what it operates on: request, packet, query, response, etc.)
+* Location (where it lives: client, server, network, memory, etc.)
+* Transformation (before → after)
+* Hardware Awareness (devices involved)
+* Data Type (request / packet / encrypted data / DB query etc.)
+
+---
+
+Output Requirements:
+
+## 📌 1. Skill Overview
+
+* Define the main skill clearly
+* Explain importance in real-world systems
+* Mention industry usage
+
+---
+
+## 🧩 2. Core Concept (High-Level)
+
+* Explain how hardware awareness supports software architecture
+* Show how all sub-skills connect into one system
+
+---
+
+## 🔍 3. Analogy (MANDATORY)
+
+* Provide a real-life analogy (e.g., courier system / restaurant / office workflow)
+* Map:
+
+  * Client → User
+  * Server → Worker
+  * Network → Road
+  * Firewall → Security gate
+* Ensure analogy reflects real behavior
+
+---
+
+## 🏗️ 4. Overall Architecture Diagram
+
+Show full system including hardware + software layers:
+
+User (Laptop)
+↓
+Internet / Router
+↓
+Firewall
+↓
+Server (App Server)
+↓
+Database Server
+↓
+Response back to Client
+
+---
+
+## 🔁 5. Overall Flowchart
+
+[Start]
+↓
+[User Action on Laptop]
+↓
+[Request Sent via Network]
+↓
+[Firewall Check]
+↓
+[Server Processing]
+↓
+[DB Interaction]
+↓
+[Response Generated]
+↓
+[Response Sent Back]
+↓
+[End]
+
+---
+
+# 🔽 6. Sub-Skill Deep Dive (Repeat for EACH logical sub-skill)
+
+## 🔹 Sub-skill: {Logical Name}
+
+### 🔍 Analogy
+
+* Map system components to real-world entities
+
+---
+
+### ⚙️ Material Anchoring
+
+* Material:
+* Data Type:
+* Location:
+* Hardware involved:
+* Explain full data movement path
+
+---
+
+### 🔄 Transformation Thinking
+
+* Before → After
+* What changes at this stage
+
+---
+
+### 🧠 Mental Model
+
+Input → Process → Output
+
+---
+
+### 🔁 Flowchart
+
+[Input]
+↓
+[Process]
+↓
+[Output]
+
+---
+
+### 🏗️ Mini Architecture
+
+Show placement in overall system
+
+---
+
+### 💻 Practical Implementation
+
+* Use:
+
+  * Code (if applicable)
+  * OR API flow
+  * OR Network/CLI example (curl, ping, traceroute, etc.)
+
+---
+
+### 🌍 Real-World Use Case
+
+* Example: Web app request, trading system, login flow, etc.
+
+---
+
+### 🔁 Daily Practice Drill
+
+* Draw architecture
+* Trace request path
+* Simulate flow mentally or using tools
+
+---
+
+### 📊 Evidence / Proof (Fill by learner)
+
+Code / Commands:
+
+---
+
+Diagram:
+
+---
+
+Explanation:
+
+---
+
+---
+
+### 🧠 Scientific Learning Evidence
+
+#### 🧪 Feynman Technique
+
+---
+
+---
+
+---
+
+---
+
+#### 🔁 Active Recall
+
+1. What is happening in this sub-skill?
+
+   ---
+
+2. What data is being processed?
+
+   ---
+
+3. Which hardware is involved?
+
+   ---
+
+4. What transformation occurs?
+
+   ---
+
+---
+
+#### ⚡ Recall Trigger
+
+---
+
+---
+
+### ✅ Self Check
+
+* Clear / Unclear
+* Can explain without notes? (Yes / No)
+
+---
+
+### 🧾 Notes
+
+---
+
+---
+
+## 🔗 7. Integration Understanding
+
+* How all sub-skills connect sequentially
+* How data flows across layers
+* Dependencies between:
+
+  * Client
+  * Network
+  * Server
+  * Security
+  * Database
+
+---
+
+## 🧠 8. Final Mental Model (Big Picture)
+
+User → Network → Security → Server → Database → Response
+
+---
+
+# 🧪 FINAL SCIENTIFIC VALIDATION
+
+## 🧠 Feynman Summary (Full System)
+
+---
+
+---
+
+---
+
+## 🔁 Active Recall (Full System)
+
+1. What are the system layers?
+
+   ---
+
+2. How does request travel end-to-end?
+
+   ---
+
+3. Where does transformation happen?
+
+   ---
+
+4. What role does each hardware play?
+
+   ---
+
+---
+
+## 🎯 Confidence Score
+
+(1–10): _______
+
+---
+
+## ⚙️ Flexibility Rule
+
+* If code is not applicable → use CLI / architecture explanation
+* Focus on real system behavior over theory
+* Keep diagrams aligned with real-world flow
+
+---
+
+Style Guidelines:
+
+* Printable, structured, clean
+* Focus on system thinking + hardware awareness
+* Use simple but precise language
+* Avoid unnecessary theory
+* Ensure analogy, diagrams, and real system flow are aligned
