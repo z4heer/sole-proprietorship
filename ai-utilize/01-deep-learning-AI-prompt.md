@@ -1,8 +1,6 @@
-# 🚀 FINAL UNIVERSAL MASTER PROMPT
-
 Create a deep learning printable document using the "Material-Anchored Learning Technique".
 
-Mode: {Beginner / Intermediate / Advanced}
+Mode: {Advanced}
 
 Input:
 Skill Category: {category}
@@ -11,156 +9,167 @@ Domain: {domain}
 Job Role: {role}
 Core Skill: {core_skill}
 
-Sub-skills (list multiple):
+Sub-skills (IMPORTANT):
+The given items represent interconnected system layers.
+Convert them into logically meaningful sub-skills by grouping and naming them based on real-world system flow.
+
+Raw Inputs:
+{list_of_items}
+
+Instruction:
+
+* Transform these into clear sub-skills representing functional system layers
+* Each sub-skill must be logically connected in end-to-end flow
+
 For each sub-skill provide:
 
 * Sub-skill Name
-* Material (what it operates on)
-* Location (where it lives)
+* Material
+* Location
 * Transformation (before → after)
-* Hardware Awareness (if any)
+* Hardware Awareness
+* Data Type
 
 ---
 
-Output Requirements:
+# 📘 DOCUMENT STRUCTURE
 
-## 📌 1. Skill Overview
+## 📖 0. Introduction (NEW - MANDATORY)
+
+* Brief description of this document
+* What the learner will gain
+* How to use this document (study + practice + recall)
+
+---
+
+## 🎯 1. Core Skill Summary (NEW)
+
+* Explain the core skill in 3–5 lines
+* Why it matters for the job role
+* Where it is used in real systems
+
+---
+
+## 🔗 2. Sub-Skills Overview (NEW)
+
+* List all derived sub-skills
+* Provide 1–2 line description for each
+* Show how they connect logically
+
+---
+
+## 📌 3. Skill Overview
 
 * Define the main skill clearly
-* Explain why it is important in real-world systems
+* Explain importance in real-world systems
 * Mention industry usage
 
 ---
 
-## 🧩 2. Core Concept (High-Level)
+## 🧩 4. Core Concept (High-Level)
 
-* Explain the overall concept connecting all sub-skills
-* Adjust depth based on Mode
-
----
-
-## 🔍 3. Analogy (MANDATORY)
-
-* Provide a simple real-life analogy
-* Map system components → real-world equivalents
-* Ensure analogy reflects actual behavior
+* Explain how hardware/software layers interact
+* Show how all sub-skills connect into one system
 
 ---
 
-## 🏗️ 4. Overall Architecture Diagram
+## 🔍 5. Analogy (MANDATORY)
 
-* Show how all sub-skills fit into one system
-* Use clean text-based diagram
-
-Example:
-User → Client → Server → [Sub-skill A | Sub-skill B] → Database → Response
-
-(*Skip or simplify if not applicable*)
+* Provide a real-life analogy
+* Map system components to real-world equivalents
 
 ---
 
-## 🔁 5. Overall Flowchart
+## 🏗️ 6. Overall Architecture Diagram
+
+* Show full system (hardware + software layers)
+* Keep it realistic and structured
+
+---
+
+## 🔁 7. Overall Flowchart
 
 * End-to-end execution flow
 
-Example:
-[Start] → [Input] → [Sub-skill A] → [Sub-skill B] → [Output] → [End]
-
-(*Simplify for beginner topics if needed*)
-
 ---
 
-# 🔽 6. Sub-Skill Deep Dive (Repeat for EACH sub-skill)
+# 🔽 8. Sub-Skill Deep Dive (Repeat for EACH sub-skill)
 
 ## 🔹 Sub-skill: {Name}
 
 ### 🔍 Analogy
 
-* Real-life analogy with mapping
-
 ---
 
 ### ⚙️ Material Anchoring
 
-* Material
-* Location
-* Hardware awareness (if applicable)
+* Material:
+* Data Type:
+* Location:
+* Hardware:
 * Data flow explanation
 
 ---
 
 ### 🔄 Transformation Thinking
 
-* Before → After
-* What changed and why it matters
-
 ---
 
 ### 🧠 Mental Model
-
-* Input → Process → Output
 
 ---
 
 ### 🔁 Flowchart
 
-* Step-by-step execution
-
 ---
 
 ### 🏗️ Mini Architecture
-
-* Show placement in system (if applicable)
 
 ---
 
 ### 💻 Practical Implementation
 
-* Code / pseudo logic (adjust depth based on Mode)
+* Code / CLI / Config (as applicable)
 
 ---
 
 ### 🌍 Real-World Use Case
 
-* Example from real systems
-
 ---
 
 ### 🔁 Daily Practice Drill
-
-* Simulate / draw / code / explain
 
 ---
 
 ### 📊 Evidence / Proof (Fill by learner)
 
-* Code written:
-
-  ---
-
-* Diagram drawn:
-
-  ---
-
-* Explanation recorded:
-
-  ---
+Code / Commands:
 
 ---
 
-### 🧠 Scientific Learning Evidence (MANDATORY)
+Diagram:
 
-#### 🧪 Feynman Technique (Teach simply)
+---
+
+Explanation:
 
 ---
 
 ---
 
+### 🧠 Scientific Learning Evidence
+
+#### 🧪 Feynman Technique
+
+---
+
 ---
 
 ---
 
-#### 🔁 Active Recall (No notes)
+---
+
+#### 🔁 Active Recall
 
 1. What is this concept?
 
@@ -180,7 +189,7 @@ Example:
 
 ---
 
-#### ⚡ Recall Trigger (1-line memory hook)
+#### ⚡ Recall Trigger
 
 ---
 
@@ -195,25 +204,25 @@ Example:
 
 ### 🧾 Notes
 
-* Insights / mistakes / improvements
+---
 
 ---
 
-## 🔗 7. Integration Understanding
+## 🔗 9. Integration Understanding
 
-* How sub-skills connect
-* Data flow between them
+* How all sub-skills connect
+* Data flow across layers
 * Dependencies
 
 ---
 
-## 🧠 8. Final Mental Model (Big Picture)
+## 🧠 10. Final Mental Model (Big Picture)
 
-Input → Sub-skill A → Sub-skill B → Sub-skill C → Output
+Input → Sub-skills → Output
 
 ---
 
-# 🧪 FINAL SCIENTIFIC VALIDATION (FULL SKILL)
+# 🧪 FINAL SCIENTIFIC VALIDATION
 
 ## 🧠 Feynman Summary (Full Skill)
 
@@ -249,45 +258,17 @@ Input → Sub-skill A → Sub-skill B → Sub-skill C → Output
 
 ---
 
-## ⚙️ Flexibility Rule (IMPORTANT)
+## ⚙️ Flexibility Rule
 
-* If any section (architecture, hardware, implementation) is not applicable:
-  → Simplify or skip while maintaining clarity
-* Adjust depth based on Mode:
-
-  * Beginner → simple, fewer details
-  * Intermediate → balanced
-  * Advanced → full system depth
+* Skip/simplify non-applicable sections
+* Use CLI/config instead of code if needed
+* Maintain real-world alignment
 
 ---
 
 Style Guidelines:
 
-* Simple, clear, printable format
-* Leave enough blank space for writing
-* Focus on deep understanding + visualization
+* Printable, clean, structured
+* Leave enough writing space
+* Focus on understanding + visualization + recall
 * Avoid unnecessary theory
-* Ensure alignment between analogy, diagrams, and real system behavior
-
----
-
-# 🧠 Final Thought
-
-You now have a **complete learning engine**:
-
-> **Understand → Visualize → Apply → Explain → Recall → Validate**
-
-This is exactly how:
-
-* Top engineers master systems
-* Architects think in flows
-* High performers retain knowledge long-term
-
----
-
-If you want next step, I can:
-
-* Generate **your first filled example (Threading / API / Trading system)**
-* Or convert this into **Excel auto-generator + tracking dashboard**
-
-Just say 👍
