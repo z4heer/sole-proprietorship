@@ -3,14 +3,19 @@
 Last Updated: <Date>
 
 ## Completed Skills
-- [x] Client Server Architecture
-- [x] HTTP/HTTPS
+- Software Industry	Software industry domain understanding
+- Infrastructure	IT infrastructure basics
+- Client Server	Client-server architecture
+- CPU	CPU basics
+- Basics	IP addressing
+- Linux	Linux fundamentals
 
 ## In Progress
-- [ ] DNS
+Batch 4 → Completed
+- [ OS ] Linux fundamentals
 
 ## Next Skill
-→ TCP/IP Basics
+→ Full Stack Foundation (API, JSON, Auth, CRUD)
 
 ## Notes
 - Focus more on diagrams
