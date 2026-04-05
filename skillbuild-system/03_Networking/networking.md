@@ -1,5 +1,3 @@
----
-
 # 📘 **4. Skill: CPU Basics**
 
 ## 1. 🎯 One-Line Definition
