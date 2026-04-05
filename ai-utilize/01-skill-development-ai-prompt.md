@@ -1,7 +1,3 @@
-Yes — below is a reusable **AI prompt template** you can use for a similar **skill development project** for **any technical or non-technical skill**.
-
-It is designed to help you build a **systematic learning, tracking, practice, review, and showcase framework** as a project, not just a study list.
-
 ## Master AI prompt
 
 ```text
