@@ -291,3 +291,38 @@ Just say:
 **“Start with Networking - DNS”** or any skill you want
 
 We’ll build it like a **gold standard reference**.
+----
+##
+Create deep learning reference documents using the Material-Anchored Learning Technique.
+
+Skills:
+1. <Skill 1> | Category: <Category>
+2. <Skill 2> | Category: <Category>
+3. <Skill 3> | Category: <Category>
+4. <Skill 4> | Category: <Category>
+5. <Skill 5> | Category: <Category>
+
+Instructions:
+- Generate a separate structured document for EACH skill
+- Clearly separate each skill using headings
+
+For each skill, include:
+
+1. One-Line Definition  
+2. Purpose (why it exists, where used)  
+3. Core Concept (simple explanation + analogy)  
+4. Internal Working (step-by-step)  
+5. System Flow (logical flow explanation)  
+6. Connected Systems (upstream/downstream)  
+7. Practical Execution (commands/code/use cases)  
+8. Common Mistakes (with fixes)  
+9. Debugging Mindset (if X fails → check Y)  
+10. Interview Explanation (30 sec answer)  
+11. Memory Hooks (trigger + analogy + visual idea)  
+12. Active Recall Questions  
+
+Constraints:
+- Keep explanations simple but deep
+- Focus on real-world understanding (avoid theory dumping)
+- Optimize for subconscious learning and long-term retention
+- Output in clean markdown format for offline storage
