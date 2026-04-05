@@ -9,13 +9,14 @@ Last Updated: <Date>
 - CPU	CPU basics
 - Basics	IP addressing
 - Linux	Linux fundamentals
+- Full Stack Foundation (API, JSON, Auth, CRUD)
 
 ## In Progress
-Batch 4 → Completed
-- [ OS ] Linux fundamentals
+Batch 5 → Completed
+→ Next → Angular / Backend Deep Dive
 
 ## Next Skill
-→ Full Stack Foundation (API, JSON, Auth, CRUD)
+→ Next → Angular / Backend Deep Dive
 
 ## Notes
 - Focus more on diagrams
