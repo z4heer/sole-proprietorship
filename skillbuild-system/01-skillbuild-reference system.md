@@ -293,6 +293,7 @@ Just say:
 We’ll build it like a **gold standard reference**.
 ----
 ##
+```text
 Create deep learning reference documents using the Material-Anchored Learning Technique.
 
 Skills:
@@ -326,3 +327,4 @@ Constraints:
 - Focus on real-world understanding (avoid theory dumping)
 - Optimize for subconscious learning and long-term retention
 - Output in clean markdown format for offline storage
+```
