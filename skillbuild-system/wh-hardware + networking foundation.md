@@ -1,6 +1,3 @@
----
-##
-Awesome—now we move to **true architect-level thinking**:
 👉 connecting **Hardware + OS + Network + Cloud + Troubleshooting** into one **mental model + interview system**.
 
 ---
@@ -13,21 +10,6 @@ Awesome—now we move to **true architect-level thinking**:
 
 ![Image](https://images.openai.com/static-rsc-4/4f46MUg10kKOwBC7M6pRjiFT7MivvmrC1n6COpEEgz2T_3HmBgONU6cTqFdQewU0C0OiNJCKicG5vD9Yxg5JlYB7dtiNBULehvMGkJNvmasPZ-VpMOOhrd5hExrKqX0WgacpSDqXL0PwRGEYThK0tkFCNWPQBg7T_Bn5bAP-HFrwhC4nKOHcC9LjbgjDJGX6?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/mlFBAacUfOTGSgR41GjlO2pSM7Q05K3dJK1dolWrek7xEfyUzDF3AfjJ92qpPLNtWlysVb7keoCtL64CggG4xH49bXOd4T0snN6J-pUQ9afuLs3v-XiipHzWkdydumIGkSjbqmkNeU-gpa_f-WM232gKNzFcqqgFpVprhA4FJZmLUYgcr1RCK4dWjJATetjx?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/kvrjMGpsqJtQ39VSrXkuXGLamPYTQ6aAWNopDBR6f513X5cO6eHJL51giyN-gzY-WcD9grCPdPlGL3rrXBgUvthMDlDIiHBfDprXLxYRdiJTMkweqpv6fT-o_Lv_TOWzsN7I5W6NY5c6U4KREBoikMqjIcMJyAUnZ2kyrXpzlkzBEZauuKGBRfc97g_wRW3c?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/fbiyuN_urnQWYgJl3LQ-7rsn-WvEfJcw1yh4ld8uav_DhBcJFaCU4yXzOxEZoWqS1UMBKqCs8KSUV7kkONbcixNaWMAh0QuwFfoDWj3YBAkQSzQw42a89NHrxN71zcK3RVECsytbhZJ625QXz6dsfOmJnaQvC5SFdZpEN1qwieIvz0yYKS7RCoYe8pgqH-Rg?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/ksRP4EDsKNC1JJQmL_2kNE4VKI-pdlxGwFNNVHiKUDzZP3cRiFY7d2PPOWZlOncJOUIGkahtwICHUtEel7HlOd6eonLzBbYfp0piBHpiIpBrKYCjI5twsbdT1xp_HWW_sYlx7wPSU8kDnQV_Pc9nIvYpw6y2gkEWcLBb88ByfmeMBd_ywBWU6DqJOPdXjnlL?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/TMwgxgeC1aUwsrYQEOh90TkxNNQfusefhdTNvbcrICPHHF_exrerp-lZWgXwoJSy4a6qOT8BYhClt0-TRSRs8lBR7wHAkzOwO6PTxuvHUOSfP_6sLs-FGZ5x7AIdEcblgIXwO-W2VGhlJIDFxkZq0a-X7PgF-vnkNb9QZcAXsYJlpLN1BnzKe05DaF5_tMbX?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/5QaHbwDfp_iPSJp5rGNOUDppTDKbwa1iIoaSjFJYw-K50sNM0nHpf2mqt4xiCHeZmuqIVjhuvQBlyzzRMehErx6xkm9vWm7KnSByA_kk8PLugGeQVxL_YeAO5wF-qa1ufZleAMm5WGwsYG5HNhLCjUZd9BSfizjvOIJ9B4A6FOF8Yao89HGzYio18wWqf7J6?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/DFolXQdegML_vnsubCOm5yVnk-zHooiWBxOm-MLmdN2USjaioYT4c25D1yBiWTNhiMyMTLJ6Qg_dVPOyn4e_h9O9qdU6wlBKjqQ35qyQ1sq19-gWL84SdhMP830Rmm2nn30KFujyMEWLig4Lj4L2AmgHQuQbWk532f5L614thGh13eFsU3Zuu3vXr6qHXHRT?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/d2k0NYe38K--Qht9PxjO7IsWdcUCdrs3vFcxx4C-r9UxlpjIb162reG0eT416xuUSQVvi22vFhRU0y1GhYQd5ROgj_16yBL7bjJPwjYw3h85OJi03htsWLwmQhaqjoYEr-k9ppuxmFaCmbE9LpIvL7M1sK6UA3RUqcaINSnU-wQybDI09XZGyaIDc9zPrxG8?purpose=fullsize)
 
 ### 🔹 Flow (Speak This in Interview)
 
