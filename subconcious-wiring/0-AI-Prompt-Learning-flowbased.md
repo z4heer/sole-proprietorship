@@ -11,9 +11,17 @@ You must design the response to break these habits and promote:
 * Verbal thinking (speaking, not silent processing)
 * Real understanding (not memorization)
 
-Topic: {ENTER TOPIC HERE}
+Topic(s): {ENTER ONE OR MULTIPLE RELATED TOPICS}
 
-Follow this exact structure:
+Instructions:
+If multiple related topics are given:
+
+* First, explain EACH topic separately
+* Then, COMBINE them into a single end-to-end system flow
+
+---
+
+For EACH topic, follow this structure:
 
 1. 🧠 1-Liner (Core Idea)
 
@@ -21,45 +29,72 @@ Follow this exact structure:
 
 2. 🎬 End-to-End Flow (Big Picture Movement)
 
-* Represent as a step-by-step dynamic process (no static explanation).
+* Represent as a step-by-step dynamic process.
 
 3. 🔩 Sub-Flows (Key Components)
 
 * Break into main sub-parts and show their internal flows.
 
 4. 🔍 Keyword Expansion (Generated via Thinking)
-   Generate keywords using these questions:
+   Generate keywords using:
 
-* Performance (How to make it faster?)
-* Security (How to protect it?)
-* Scalability (How to handle growth?)
-* Failure (What can go wrong?)
-* Data Handling (How data is managed?)
-* Internals (How it works inside?)
-* Communication (How parts interact?)
+* Performance (speed)
+* Security (protection)
+* Scalability (growth)
+* Failure (what can go wrong)
+* Data Handling
+* Internals
+* Communication
 
 5. 🚶‍♂️ Walking Speaking Practice (MANDATORY)
 
-* Provide a 1–2 minute spoken-style explanation.
-* It must sound like I am walking and explaining continuously.
-* Include filler transitions (e.g., “okay… next… now what happens is…”)
-* Avoid perfect sentences; keep it natural and flowing.
+* Provide a 1–2 minute natural spoken explanation
+* Must sound like walking and explaining continuously
+* Include filler transitions (“okay… next… now…”)
+* No perfect sentences
 
-6. 🧠 Deconditioning Instructions (IMPORTANT)
+6. 🧠 Deconditioning Instructions
 
-* Add 2–3 lines reminding:
+* Do NOT visualize pages or positions
+* Think in flow and movement
+* If stuck, keep speaking instead of thinking silently
 
-  * Do NOT visualize pages or positions
-  * Think in flow and movement
-  * If stuck, keep speaking instead of thinking silently
+---
 
-7. ⚡ Optional (if helpful)
+After all individual topics, add:
 
-* Add a real-world analogy in flow format
+# 🔗 COMBINED SYSTEM
+
+7. 🧠 Combined 1-Liner
+
+* One line explaining how all topics work together
+
+8. 🎬 Combined End-to-End Flow
+
+* Merge all topics into a single continuous system flow
+
+9. 🔩 Combined Thinking
+
+* Explain role of each topic in system (e.g., processing vs transport)
+
+10. 🔍 Combined Keyword Expansion
+
+* Show how concepts connect (e.g., cache + CDN, CPU + network latency)
+
+11. 🚶‍♂️ Final Walking Speaking Practice (MOST IMPORTANT)
+
+* One continuous explanation covering full system
+* Must feel like real-time thinking, not memorized
+
+12. 🧠 Final Deconditioning
+
+* Reinforce: no page visualization, only flow + speaking
+
+---
 
 Rules:
 
-* Do NOT present as notes or page layout.
-* Do NOT encourage memorization.
-* Focus on movement, system behavior, and speaking ability.
-* Ensure output can be spoken without looking at text.
+* Do NOT present as notes or static content
+* Do NOT encourage memorization
+* Focus on movement, system behavior, and explanation ability
+* Ensure output can be spoken without looking
