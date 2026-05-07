@@ -422,3 +422,55 @@
 - Reporting tools
 - Enterprise platforms
 ```
+```markdown id="redis-map"
+# Redis
+
+## What
+- In-memory data store
+- High-speed key-value database
+- Used for caching, messaging, and real-time systems
+
+## Why
+- Reduce application latency
+- Handle high request volumes
+- Support real-time processing
+- Improve scalability and performance
+
+## How
+- Data stored primarily in memory
+- Applications read/write using keys
+- Extremely fast access compared to disk databases
+- Optional persistence saves snapshots/logs
+
+## Core Components
+- Key-Value Engine
+- In-memory Storage
+- Pub/Sub Messaging
+- Persistence (RDB/AOF)
+- Replication
+- Clustering
+
+## Real-world Analogy
+- Fast-access office desk drawer
+- Frequently used items kept instantly reachable
+
+## Real-world Usage
+- API caching
+- Session storage
+- Real-time leaderboards
+- Rate limiting
+- Messaging queues
+- Distributed locking
+
+## Owner
+- Backend engineers
+- DevOps/SRE teams
+- Platform engineering
+
+## Consumer
+- APIs
+- Web applications
+- Microservices
+- Databases
+- Real-time systems
+```
