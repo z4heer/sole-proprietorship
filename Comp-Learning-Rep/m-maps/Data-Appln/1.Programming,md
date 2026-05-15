@@ -1,0 +1,708 @@
+# Git & GitHub
+
+## Git
+
+### Git kya hai
+
+Git ek version control system hai.
+Code changes track karta hai.
+
+### Iska use kisliye hota hai
+
+* Code history maintain karne ke liye
+* Team collaboration ke liye
+* Backup aur rollback ke liye
+
+### Ye internally kaise kaam karta hai
+
+Git snapshots store karta hai.
+Har commit ek saved state hoti hai.
+
+### Working Steps
+
+Code change → git add → git commit → History save
+
+### Mental Image / Analogy
+
+Game save points jaisa.
+
+### Real Engineer Usage
+
+* Daily development
+* Team collaboration
+* Production fixes
+
+### Common Commands
+
+```bash
+git init
+git status
+git add .
+git commit -m "message"
+git log
+```
+
+### Troubleshooting Thinking
+
+* File staged hai?
+* Wrong branch?
+* Merge conflict?
+
+### Communication Practice
+
+* “Git code history maintain karta hai.”
+* “Commits rollback aur collaboration easy banate hain.”
+* “Production environments me Git essential tool hai.”
+
+---
+
+## GitHub
+
+### GitHub kya hai
+
+Online platform jaha Git repositories host hoti hain.
+
+### Iska use kisliye hota hai
+
+* Remote backup
+* Team collaboration
+* Pull requests
+* CI/CD integration
+
+### Ye internally kaise kaam karta hai
+
+Local Git repo remote GitHub repo se sync hota hai.
+
+### Working Steps
+
+Local commit → git push → GitHub update → Team access
+
+### Mental Image / Analogy
+
+Cloud storage for code.
+
+### Real Engineer Usage
+
+* Team development
+* Code reviews
+* Open-source projects
+
+### Common Commands
+
+```bash
+git clone <repo-url>
+git push
+git pull
+```
+
+### Troubleshooting Thinking
+
+* Authentication fail?
+* Remote branch mismatch?
+* Push rejected?
+
+### Communication Practice
+
+* “GitHub collaborative development platform hai.”
+* “Pull requests code review process improve karte hain.”
+
+---
+
+## Branch
+
+### Branch kya hai
+
+Separate development line hoti hai.
+
+### Iska use kisliye hota hai
+
+Feature development isolate karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Git branch different commit pointer maintain karti hai.
+
+### Working Steps
+
+Branch create → Code changes → Commit → Merge
+
+### Mental Image / Analogy
+
+Road ka side lane.
+
+### Real Engineer Usage
+
+* Feature development
+* Bug fixes
+* Release management
+
+### Common Commands
+
+```bash
+git branch
+git checkout -b feature1
+git merge feature1
+```
+
+### Troubleshooting Thinking
+
+* Wrong branch pe work?
+* Merge conflict?
+* Uncommitted changes?
+
+### Communication Practice
+
+* “Branches isolated development allow karti hain.”
+* “Feature-based branching industry standard hai.”
+
+---
+
+# Python Fundamentals
+
+## Python
+
+### Python kya hai
+
+Simple aur powerful programming language.
+
+### Iska use kisliye hota hai
+
+* Automation
+* Backend
+* Data analysis
+* AI/ML
+* Scripting
+
+### Ye internally kaise kaam karta hai
+
+Python interpreter line-by-line code execute karta hai.
+
+### Working Steps
+
+Write code → Python interpret → Execute → Output
+
+### Mental Image / Analogy
+
+Translator jo instructions samjha kar execute karata hai.
+
+### Real Engineer Usage
+
+* Automation scripts
+* APIs
+* Monitoring tools
+* Data processing
+
+### Common Commands
+
+```bash
+python app.py
+python --version
+pip install flask
+```
+
+### Troubleshooting Thinking
+
+* Indentation error?
+* Package missing?
+* Wrong Python version?
+
+### Communication Practice
+
+* “Python readable aur developer-friendly language hai.”
+* “Automation aur backend systems me Python widely use hota hai.”
+
+---
+
+## Variables
+
+### Variable kya hai
+
+Data store karne ka container.
+
+### Iska use kisliye hota hai
+
+Temporary values hold karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Memory me value assign hoti hai.
+
+### Working Steps
+
+Variable declare → Value assign → Use in logic
+
+### Mental Image / Analogy
+
+Label wala storage box.
+
+### Real Engineer Usage
+
+* Dynamic data handling
+* User input processing
+
+### Example
+
+```python
+name = "Zahir"
+age = 30
+```
+
+### Troubleshooting Thinking
+
+* Variable defined?
+* Wrong datatype?
+* Typo?
+
+### Communication Practice
+
+* “Variables runtime data hold karte hain.”
+* “Readable variable naming maintainability improve karti hai.”
+
+---
+
+## Loops
+
+### Loop kya hai
+
+Repeated execution structure.
+
+### Iska use kisliye hota hai
+
+Same task multiple times perform karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Condition ya collection repeatedly process hoti hai.
+
+### Working Steps
+
+Condition check → Execute → Repeat → Stop
+
+### Mental Image / Analogy
+
+Factory conveyor belt.
+
+### Real Engineer Usage
+
+* Batch processing
+* Data iteration
+* File handling
+
+### Example
+
+```python
+for i in range(5):
+    print(i)
+```
+
+### Troubleshooting Thinking
+
+* Infinite loop?
+* Wrong condition?
+* Loop break missing?
+
+### Communication Practice
+
+* “Loops repetitive processing automate karte hain.”
+* “Efficient looping performance impact karta hai.”
+
+---
+
+# Java Fundamentals
+
+## Java
+
+### Java kya hai
+
+Object-oriented programming language.
+
+### Iska use kisliye hota hai
+
+* Enterprise applications
+* Backend systems
+* Banking systems
+* APIs
+
+### Ye internally kaise kaam karta hai
+
+Java code bytecode me compile hota hai.
+JVM usko execute karti hai.
+
+### Working Steps
+
+Write code → Compile → Bytecode → JVM execute
+
+### Mental Image / Analogy
+
+Universal adapter jo har machine pe chale.
+
+### Real Engineer Usage
+
+* Enterprise backend
+* Large-scale systems
+* Microservices
+
+### Common Commands
+
+```bash
+javac Main.java
+java Main
+```
+
+### Troubleshooting Thinking
+
+* Compilation error?
+* JVM installed?
+* Classpath issue?
+
+### Communication Practice
+
+* “Java platform-independent language hai.”
+* “JVM portability aur runtime management provide karti hai.”
+
+---
+
+## JVM
+
+### JVM kya hai
+
+Java Virtual Machine.
+
+### Iska use kisliye hota hai
+
+Java bytecode run karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+JVM bytecode ko machine instructions me convert karti hai.
+
+### Working Steps
+
+Compile → Bytecode → JVM load → Execute
+
+### Mental Image / Analogy
+
+Interpreter machine.
+
+### Real Engineer Usage
+
+* Java application runtime
+* Memory management
+* Garbage collection
+
+### Common Tools
+
+```bash
+jps
+jstack
+jmap
+```
+
+### Troubleshooting Thinking
+
+* Memory issue?
+* Heap full?
+* Thread deadlock?
+
+### Communication Practice
+
+* “JVM Java runtime environment provide karti hai.”
+* “Garbage collection automatic memory management handle karta hai.”
+
+---
+
+# Programming Logic & OOP
+
+## Condition (if-else)
+
+### Condition kya hai
+
+Decision-making structure.
+
+### Iska use kisliye hota hai
+
+Different situations handle karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Condition true/false evaluate hoti hai.
+
+### Working Steps
+
+Condition check → True block / False block
+
+### Mental Image / Analogy
+
+Traffic signal decision.
+
+### Real Engineer Usage
+
+* Business logic
+* Validation
+* Access control
+
+### Example
+
+```python
+if age > 18:
+    print("Adult")
+```
+
+### Troubleshooting Thinking
+
+* Wrong condition?
+* Logic mismatch?
+* Edge cases?
+
+### Communication Practice
+
+* “Conditional logic application behavior control karti hai.”
+* “Business rules mostly conditions pe based hote hain.”
+
+---
+
+## Class & Object
+
+### Class kya hai
+
+Blueprint hoti hai.
+
+### Object kya hai
+
+Class ka real instance.
+
+### Iska use kisliye hota hai
+
+Real-world entities model karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Class structure define karti hai.
+Object memory me create hota hai.
+
+### Working Steps
+
+Class define → Object create → Methods call
+
+### Mental Image / Analogy
+
+Car design aur actual car.
+
+### Real Engineer Usage
+
+* Backend models
+* APIs
+* Enterprise applications
+
+### Example
+
+```python
+class Car:
+    pass
+
+bmw = Car()
+```
+
+### Troubleshooting Thinking
+
+* Object initialized?
+* Method missing?
+* Wrong access?
+
+### Communication Practice
+
+* “OOP reusable aur maintainable design provide karta hai.”
+* “Objects real-world entities represent karte hain.”
+
+---
+
+## Inheritance
+
+### Inheritance kya hai
+
+Ek class dusri class ki properties use karti hai.
+
+### Iska use kisliye hota hai
+
+Code reuse ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Child class parent class features inherit karti hai.
+
+### Working Steps
+
+Parent class → Child class extend → Feature reuse
+
+### Mental Image / Analogy
+
+Family traits inheritance.
+
+### Real Engineer Usage
+
+* Framework development
+* Shared logic reuse
+
+### Troubleshooting Thinking
+
+* Wrong override?
+* Parent method access?
+* Constructor issue?
+
+### Communication Practice
+
+* “Inheritance code duplication reduce karta hai.”
+* “Reusable architecture design me inheritance useful hai.”
+
+---
+
+# REST APIs & HTTP
+
+## API
+
+### API kya hai
+
+Systems ke beech communication interface.
+
+### Iska use kisliye hota hai
+
+Frontend aur backend connect karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Client request bhejta hai.
+Server process karke response deta hai.
+
+### Working Steps
+
+Client request → API process → Database access → Response return
+
+### Mental Image / Analogy
+
+Restaurant waiter system.
+
+### Real Engineer Usage
+
+* Mobile apps
+* Web applications
+* Microservices
+
+### Common Tools
+
+* Postman
+* Swagger
+* curl
+
+### Example
+
+```bash
+curl http://api.com/users
+```
+
+### Troubleshooting Thinking
+
+* Endpoint reachable?
+* Wrong payload?
+* Authentication issue?
+
+### Communication Practice
+
+* “REST APIs systems integration enable karti hain.”
+* “APIs JSON-based communication commonly use karti hain.”
+
+---
+
+## HTTP Methods
+
+### HTTP Methods kya hai
+
+Request action types.
+
+### Iska use kisliye hota hai
+
+CRUD operations perform karne ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Server request method ke basis pe action decide karta hai.
+
+### Working Steps
+
+HTTP request → Method identify → Action execute → Response
+
+### Common Methods
+
+* GET → Read
+* POST → Create
+* PUT → Update
+* DELETE → Remove
+
+### Mental Image / Analogy
+
+Remote control buttons.
+
+### Real Engineer Usage
+
+* REST API design
+* Frontend integration
+
+### Troubleshooting Thinking
+
+* Wrong method?
+* 404?
+* 405 Method Not Allowed?
+
+### Communication Practice
+
+* “HTTP methods resource operations define karte hain.”
+* “RESTful APIs standard HTTP methods follow karti hain.”
+
+---
+
+## HTTP Status Codes
+
+### Status Code kya hai
+
+Server response result indicator.
+
+### Iska use kisliye hota hai
+
+Request success/failure samjhane ke liye.
+
+### Ye internally kaise kaam karta hai
+
+Server processing result ke basis pe code return karta hai.
+
+### Common Codes
+
+* 200 → Success
+* 201 → Created
+* 400 → Bad Request
+* 401 → Unauthorized
+* 404 → Not Found
+* 500 → Server Error
+
+### Working Steps
+
+Request → Server process → Status generate → Response
+
+### Mental Image / Analogy
+
+Exam result status.
+
+### Real Engineer Usage
+
+* API debugging
+* Monitoring
+* Production troubleshooting
+
+### Troubleshooting Thinking
+
+* 500 → backend issue
+* 404 → wrong endpoint
+* 401 → auth problem
+
+### Communication Practice
+
+* “HTTP status codes debugging me bahut helpful hote hain.”
+* “5xx errors mostly server-side problems indicate karte hain.”
